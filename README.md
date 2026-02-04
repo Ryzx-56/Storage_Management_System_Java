@@ -1,4 +1,6 @@
 #📦 Storage Management System (Java)
+
+
 ##📌 Overview
 The Storage Management System is a desktop inventory management application developed using Java Swing. The application allows users to create accounts, log in securely, manage product inventory, view stored products, and customize the application’s appearance.
 This project was developed as part of Object-Oriented Programming II (CCCS 214) at the University of Jeddah.
