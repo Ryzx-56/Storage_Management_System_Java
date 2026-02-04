@@ -112,6 +112,55 @@ Storage-Management-System-Java
 ├── BuildAppearancePanel.java
 
 ---
+## 📷 Application Screenshots
+
+### 🔐 Sign In Page
+Users can log in using their credentials or navigate to the registration page.
+
+![Sign In Page](screenshots/sign_in_page.png)
+
+---
+
+### 📝 Registration Page
+Allows new users to create an account before accessing the system.
+
+![Register Page](screenshots/register_page.png)
+
+---
+
+### 🏠 Main Dashboard
+Central navigation page that allows users to manage products, view products, or customize the application appearance.
+
+![Main Page](screenshots/main_page.png)
+
+---
+
+### 📦 Manage Products
+Users can add, delete, and modify product quantities using an interactive interface.
+
+![Manage Products](screenshots/manage_products.png)
+
+---
+
+### ➕ Add Product Dialog
+Users can select a category and enter a product name when adding new items to the inventory.
+
+![Add Product](screenshots/add_product.png)
+
+---
+
+### 👀 View Products
+Displays all stored products with images, categories, and current quantities in an organized layout.
+
+![View Products](screenshots/view_products.png)
+
+---
+
+### 🎨 Appearance Customization
+Allows users to change the application color theme dynamically across all pages.
+![Appearance Customization](screenshots/appearance_customization.png)
+
+---
 
 ## 💻 Technologies Used
 - Java
