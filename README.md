@@ -132,6 +132,15 @@ Storage-Management-System-Java
 
 ---
 
+## ▶ How To Run The Project
+
+1. Clone the repository
+2. Open the project in a Java IDE (NetBeans, Eclipse, or IntelliJ)
+3. Locate the main application class
+4. Run the application from the IDE
+
+---
+
 ## 📚 Learning Outcomes
 This project demonstrates:
 - GUI application development using Java Swing
