@@ -117,47 +117,48 @@ Storage-Management-System-Java
 ### 🔐 Sign In Page
 Users can log in using their credentials or navigate to the registration page.
 
-![Sign In Page](screenshots/sign_in_page.png)
+![Sign In Page](screenshots/Sign_in_Page.png)
 
 ---
 
 ### 📝 Registration Page
 Allows new users to create an account before accessing the system.
 
-![Register Page](screenshots/register_page.png)
+![Register Page](screenshots/Register_Page.png)
 
 ---
 
 ### 🏠 Main Dashboard
 Central navigation page that allows users to manage products, view products, or customize the application appearance.
 
-![Main Page](screenshots/main_page.png)
+![Main Page](screenshots/Main_Page.png)
 
 ---
 
 ### 📦 Manage Products
 Users can add, delete, and modify product quantities using an interactive interface.
 
-![Manage Products](screenshots/manage_products.png)
+![Manage Products](screenshots/Manage_Products.png)
 
 ---
 
 ### ➕ Add Product Dialog
 Users can select a category and enter a product name when adding new items to the inventory.
 
-![Add Product](screenshots/add_product.png)
+![Add Product](screenshots/Add_Products.png)
 
 ---
 
 ### 👀 View Products
 Displays all stored products with images, categories, and current quantities in an organized layout.
 
-![View Products](screenshots/view_products.png)
+![View Products](screenshots/View_Products.png)
 
 ---
 
 ### 🎨 Appearance Customization
 Allows users to change the application color theme dynamically across all pages.
+
 ![Appearance Customization](screenshots/appearance_customization.png)
 
 ---
